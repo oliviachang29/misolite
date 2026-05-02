@@ -3,13 +3,12 @@ title: Making A 40L Ultralight Pack
 description: Spring 2025, for the Babson Foundry Grant
 date: 2025-05-14
 tags: packs
+main_image: 'back.webp'
+alternate_image: 'zion3.webp'
 ---
-<img src="./wearing.jpg" alt="">
-<img src="./buckskin 2.jpg" alt="">
-<img src="./buckskin.jpg" alt="">
-<img src="./back.jpg" alt="">
-<img src="./with bear can.png" alt="">
-<img src="./pack back.png" alt="">
+<img src="./wearing.webp" alt="">
+<img src="./with bear can.webp" alt="">
+<img src="./pack back.webp" alt="">
 
 
 # Update (Jan 2026)
@@ -21,13 +20,13 @@ Primarily, vanity. I wanted a lighter pack, and one that was unique. Secondly, I
 
 Specs
 
-<img src="./sketch.jpg" alt="">
+<img src="./sketch.webp" alt="">
 
 * 40L internal, additional 5L external capacity
 * 19oz (frameless)
 * 24oz (with hip belt)
 
-<img src="./sketches2.jpg" alt="">
+<img src="./sketches2.webp" alt="">
 
 Materials
 
@@ -54,8 +53,8 @@ Materials
 Sourced from Ripstopbytheroll, Quest Outfitters, Amazon, and Joann’s :(
 
 # Prototyping
-<img src="./prototype.jpg" alt="">
-<img src="./prototype 2.jpg" alt="">
+<img src="./prototype.webp" alt="">
+<img src="./prototype 2.webp" alt="">
 
 I borrowed a roll of Tyvek from the Olin outing club to prototype. I used the Prickly Gorse 40L framed pattern with several modifications that I’ll note below. I couldn’t get the poster printer to print the A0 size pattern correctly, so I printed the pattern on letter paper and spent several hours taping everything together.
 
@@ -67,21 +66,21 @@ I realized the internal capacity of the prototype was quite small (35L), so I ex
 
 ## Front pockets
 
-<img src="./panels laid out.jpg" alt="">
-<img src="./panels laid out 2.jpg" alt="">
+<img src="./panels laid out.webp" alt="">
+<img src="./panels laid out 2.webp" alt="">
 
 
 One thing I disliked about the massive, opaque venom stretch pocket on my LiteAF pack was that it would always take me forever to find anything. This became an actual problem every time I had to dig a cat hole and would be frantically searching for my trowel and TP. I decided that I would instead add 2 half pockets, the bottom would have my tarp and groundsheet, and the top would have all the small things.
 ]
 
-<img src="./front pocket.jpg" alt="">
+<img src="./front pocket.webp" alt="">
 
 After basting on the double pockets, I spent several weeks worrying that the pockets were simply too small and wouldn’t be all that functional. I couldn’t remove the bottom one since I had already stitched the front and bottom panels together, but I seam ripped off the top pocket and replaced it with a much larger pocket. Since I had already created several rows of holes because of sewing mistakes in the XPAC and didn’t want to create another one by adding the pocket again, I decided to make the top pocket open on both the top and bottom \- similar to the HMG Unbound’s double pockets. It gives me a place to put small things, and I can also access the items at the bottom of the top pocket easily. I also added a Palante style stake pocket to the top left since I had some leftover venom.
 
 ### Side pockets
 
-<img src="./panels laid out 3.jpg" alt="">
-<img src="./panels laid out 4.jpg" alt="">
+<img src="./panels laid out 3.webp" alt="">
+<img src="./panels laid out 4.webp" alt="">
 
 I debated whether to use my leftover purple EPX200 from another project, but woven fabrics are supposedly better for side pockets (less stiff) so I used Venom gridstop for these. I was hoping to use the soft purple gridstop, but had a mixup with my order that resulted in having 3 yards of black gridstop instead. Oh well, it ended up looking nice anyway.
 
@@ -89,19 +88,19 @@ I added grommets as drainage holes and for threading elastic cord through the to
 
 ### Shoulder straps
 
-<img src="./straps.jpg" alt="">
+<img src="./straps.webp" alt="">
 
 I added a second shoulder pocket on the left shoulder strap, as well as a piece of webbing to hook a garmin. The second pocket had to be small enough to not get in the way of the first pocket, so it carries my bandana, sunscreen, and lip balm. I think these are super functional enhancements and I’m very happy with them.
 
 I personally dislike spacer mesh - I don’t think it does anything other than rub uncomfortably on my shoulders. I used Lycra mesh and old leggings instead for the strap base. While I noticed some sweat on the underside of the straps during my test hikes, it honestly wasn’t a big deal and not all that different from using spacer mesh.
 
-<img src="./nashville straps sys.jpg" alt="">
+<img src="./nashville straps sys.webp" alt="">
 
 I worried a lot about getting the shoulder strap angle and shape right on the first try, so I decided to add the Nashville style attachment with a daisy chain and 3 triglides. See this link for an explanation of how Nashville does it (or used to do it \- now they use a different type of daisy chain). It was very difficult to sew the daisy chain into the seam with only 1” webbing \- next time I might just sew the bartacks directly into the XPAC. I hope it holds up. The daisy chain also looks not the best, but that’s okay.
 
 ### Y strap
 
-<img src="./back top under sewing machine.jpg" alt="">
+<img src="./back top under sewing machine.webp" alt="">
 
 LiteAF packs have a Y strap that is constructed of 2 pieces of webbing, sewn together at the intersection of the “Y”. It’s a bit difficult to explain, but it means that if I’m trying to lash a bear can to the top, tightening the pack from all 3 sides involves pulling upwards (towards me), rather than pulling downwards at the bottom of the “Y”. This is a genius move on their part in my opinion and I copied it for my pack.
 
@@ -119,8 +118,8 @@ I’d heard some great things about the SWD packs weight transfer, and how float
 
 ## Frame
 
-<img src="./side flat.jpg" alt="">
-<img src="./side view.jpg" alt="">
+<img src="./side flat.webp" alt="">
+<img src="./side view.webp" alt="">
 
 I spent a lot of time debating between different frame styles. I know I’m not UL enough to do a 6-7 day food carry with no frame, and I wanted to be able to use this pack for essentially any kind of trip, including when I need spikes, ice ax, tent inner and a bear can (+5 lbs to base weight essentially).
 
@@ -142,7 +141,7 @@ Combined with tightening the side compression straps and removing the frame and 
 
 ## What I like:
 
-<img src="./back r2r.jpg" alt="">
+<img src="./back r2r.webp" alt="">
 
 * The shoulder straps are extremely well padded and comfortable, especially for frameless mode.
 * Being able to adjust the angle and placement of the shoulder straps is amazing \- I can really configure the fit, and I can imagine replacing them with vest style straps in the future.
@@ -150,6 +149,8 @@ Combined with tightening the side compression straps and removing the frame and 
 * Shock cord on the back to attach a sit pad \- it works really well.
 
 ## Things I’d do differently:
+
+<img src="./yose3.webp" alt="">
 
 * I’m unsure about the nashville style attachment. It makes the pack look much less clean and the straps are a little harder to get on. I would like to toy with other ways of making straps removable.
 * Make the side pockets differently. I would rather use 2 pieces of fabric to make a “cup” rather than this single piece of fabric, which doesn’t really hold 2 smartwaters as well as my Durston pack.
@@ -160,7 +161,7 @@ Combined with tightening the side compression straps and removing the frame and 
 
 After I finished the pack, I immediately took it on a week long trip through Arizona and Utah using it as a day pack.
 
-<img src="./laid flat.jpg" alt="">
+<img src="./laid flat.webp" alt="">
 
 ## What am I naming it?
 
@@ -168,14 +169,13 @@ I’ve named all of my packs after pokémon. I chose Poliwhirl because it’s me
 
 Here’s to many adventures, Poliwhirl!
 
-<img src="./yose.png" alt="">
-<img src="./yose3.png" alt="">
+<img src="./buckskin 2.webp" alt="">
+<img src="./buckskin.webp" alt="">
 
-<img src="./me wearing r2r.jpg" alt="">
+<img src="./bryce.webp" alt="">
 
-<img src="./bryce.jpg" alt="">
-
-<img src="./zion1.jpg" alt="">
-<img src="./zion2.jpg" alt="">
-<img src="./zion3.jpg" alt="">
-
+<div class="flexbox-row">
+    <img src="./zion1.webp" alt="">
+    <img src="./zion2.webp" alt="">
+    <img src="./zion3.webp" alt="">
+</div>

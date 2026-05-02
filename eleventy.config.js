@@ -119,6 +119,11 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	// eleventyConfig.addFilter("justYear", (dateString) => {
+	// 	dateObj = new Date(dateString);
+	// 	return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy');
+	// });
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
