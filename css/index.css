@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: 'Hanken Grotesk', -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -24,6 +24,10 @@
 /* Global stylesheet */
 * {
 	box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Instrument Serif'
 }
 
 @view-transition {
@@ -189,6 +193,7 @@ header {
 	flex-grow: 1;
 	font-size: 1em; /* 16px /16 */
 	font-weight: 700;
+	font-family: 'Instrument Serif';
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -275,9 +280,8 @@ header {
 	gap: .5em;
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 0 0 30px;
 }
 .post-metadata time {
 	margin-right: 1em;
 }
-
