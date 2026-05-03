@@ -7,5 +7,5 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 3;
 ---
 
-{% set postslist = collections.posts %}
+{% set postslist = collections['builds'] %}
 {% include "postslist.njk" %}

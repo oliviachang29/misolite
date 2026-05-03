@@ -4,7 +4,6 @@ description:
 date: 2025-06-15
 tags:
   - builds
-  - packs
 main_image: 'DSC_7252.webp'
 ---
 

@@ -5,14 +5,14 @@ date: 2025-07-15
 tags:
   - builds
   - bikes
-main_image: 'IMG_7721 2.webp'
-alternate_image: 'IMG_7714.webp'
+main_image: 'main.webp'
+alternate_image: 'full_of_things.webp'
 ---
 
-<img src="./IMG_7714.webp" alt=">
+![](./main.webp)
 
-<img src="./IMG_7721 2.webp" alt=">
+![](./full_of_things.webp)
 
-<img src="./IMG_7723.webp" alt=">
+![](./closer.webp)
 
-<img src="./IMG_7727 2.webp" alt=">
+![](./open.webp)

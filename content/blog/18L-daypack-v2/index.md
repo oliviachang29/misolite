@@ -5,8 +5,8 @@ date: 2026-02-01
 tags:
   - packs
   - builds
-main_image: "IMG_2239.webp"
-alternate_image: "IMG_2242.webp"
+main_image: "IMG_2242.webp"
+alternate_image: "IMG_2239.webp"
 ---
 
 ![](./IMG_2239.webp)

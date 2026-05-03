@@ -2,7 +2,10 @@
 title: Making A 40L Ultralight Pack
 description: Spring 2025, for the Babson Foundry Grant
 date: 2025-05-14
-tags: packs
+tags:
+- packs
+- builds
+- tutorials
 main_image: 'back.webp'
 alternate_image: 'zion3.webp'
 ---

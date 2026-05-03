@@ -1,9 +1,9 @@
-<div reversed class="postlist" style="--postlist-index: {{ (postslistCounter or postslist.length) + 1 }}">
+<div class="gallery">
 	{%- for post in postslist | reverse %}
-		<a href="{{ post.url }}" class="postlist-link">
-			<div class="postlist-image-and-title">
-				<img class="postlist-main-image" src="{{post.url}}/{{post.data.main_image}}" alt="{{ post.data.title }}">
-				<img class="postlist-alt-image" src="{{post.url}}/{{post.data.alternate_image}}" alt="">
+		<a href="{{ post.url }}" class="gallery-link">
+			<div class="gallery-image-and-title">
+				<img class="gallery-main-image" src="{{post.url}}/{{post.data.main_image}}" alt="{{ post.data.title }}">
+				<img class="gallery-alt-image" src="{{post.url}}/{{post.data.alternate_image}}" alt="">
 			</div>
 		</a>
 	{%- endfor %}

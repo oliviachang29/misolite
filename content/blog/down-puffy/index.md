@@ -6,6 +6,7 @@ tags:
   - builds
   - down
   - apparel
+  - tutorials
 main_image: 'square thumbnail.webp'
 alternate_image: 'me wearing.webp'
 ---
