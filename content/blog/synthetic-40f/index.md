@@ -3,9 +3,11 @@ title: Apex 40F Quilt
 description: A simple synthetic quilt for summertime backpacking or as an overquilt for my 20F quilt during winter.
 date: 2026-01-01
 tags:
+  - tutorials
   - builds
   - insulation
   - quilt
+hidden: true
 main_image: 'IMG_2130.webp'
 alternate_image: 'IMG_1837.webp'
 ---

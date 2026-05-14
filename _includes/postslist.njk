@@ -1,10 +1,12 @@
 <div class="gallery">
-	{%- for post in postslist | reverse %}
-		<a href="{{ post.url }}" class="gallery-link">
-			<div class="gallery-image-and-title">
-				<img class="gallery-main-image" src="{{post.url}}/{{post.data.main_image}}" alt="{{ post.data.title }}">
-				<img class="gallery-alt-image" src="{{post.url}}/{{post.data.alternate_image}}" alt="">
-			</div>
-		</a>
+	{%- for post in postslist | randomOrder %}
+		{% if not post.data.hidden %}
+			<a href="{{ post.url }}" class="gallery-link">
+				<div class="gallery-image-and-title">
+					<img class="gallery-main-image" src="{{post.url}}/{{post.data.main_image}}" alt="{{ post.data.title }}">
+					<img class="gallery-alt-image" src="{{post.url}}/{{post.data.alternate_image}}" alt="">
+				</div>
+			</a>
+		{% endif %}
 	{%- endfor %}
 </div>

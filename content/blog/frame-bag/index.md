@@ -7,6 +7,7 @@ tags:
   - bikes
 main_image: 'main.webp'
 alternate_image: 'full_of_things.webp'
+hidden: true
 ---
 
 ![](./main.webp)

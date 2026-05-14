@@ -6,8 +6,8 @@ tags:
 - packs
 - builds
 - tutorials
-main_image: 'back.webp'
-alternate_image: 'zion3.webp'
+main_image: 'zion3.webp'
+alternate_image: 'back.webp'
 ---
 <img src="./wearing.webp" alt="">
 <img src="./with bear can.webp" alt="">

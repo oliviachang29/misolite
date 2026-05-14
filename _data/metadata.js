@@ -6,5 +6,5 @@ export default {
 	author: {
 		name: "Olivia Chang",
 		email: "olivia@misolite.com"
-	}
+	},
 }
