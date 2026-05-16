@@ -9,6 +9,7 @@ tags:
   - tutorials
 main_image: 'square thumbnail.webp'
 alternate_image: 'me wearing.webp'
+hidden: true
 ---
 
 <img src="./me wearing.webp" alt='woman wearing a red puffy jacket and smiling'>

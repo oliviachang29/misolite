@@ -1,5 +1,5 @@
 ---
-title: 38L Frameless with Continuous Front Pocket
+title: "[SOLD] 38L Frameless with Continuous Front Pocket"
 description: HyperD 300 + Spandura + Robic. 14.1oz.
 date: 2026-05-01
 price: 120
