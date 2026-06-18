@@ -1,10 +1,12 @@
 ---
-title: 40L Frameless with Hybrid Vest
+title: "40L Frameless with Hybrid Vest"
 description: Robic + Spandura
 date: 2026-05-01
+sold: true
 tags:
   - packs
   - builds
+  - for-sale
 main_image: 'IMG_2819.webp'
 alternate_image: 'IMG_2801.webp'
 ---

@@ -1,8 +1,8 @@
 ---
-title: 35L Frameless with Vest Straps
+title: "35L Frameless with Vest Straps"
 description: EPX200 + Robic. 19oz.
 date: 2026-05-01
-price: 120
+sold: true
 tags:
   - packs
   - builds

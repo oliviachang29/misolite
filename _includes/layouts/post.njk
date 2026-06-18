@@ -9,8 +9,12 @@ layout: layouts/base.njk
 	{%- for tag in tags | filterTagList %}
 
 		{% if tag == "for-sale" %}
-			<strong>${{ price }}</strong>
-			{% include "for_sale_text.njk" %}
+			{% if sold %}
+                <strong>Sold</strong>
+            {% else %}
+				{% include "for_sale_text.njk" %}
+                <span>${{ post.data.price }}</span>
+            {% endif %}
 		{% endif %}
 
 	{% endfor %}

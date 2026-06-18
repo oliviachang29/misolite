@@ -5,9 +5,6 @@ const eleventyNavigation = {
 };
 ---
 
-<h1>For Sale</h1>
-{% include "for_sale_text.njk" %}
-
 {% set postslist = collections['for-sale'] %}
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
 <div class="for-sale-list">
@@ -15,7 +12,13 @@ const eleventyNavigation = {
         <a href="{{ post.url }}" class="for-sale-list-link">
             <img class="for-sale-list-main-image" src="{{post.url}}/{{post.data.main_image}}" alt="{{ post.data.title }}">
             <h2>{{ post.data.title }}</h2>
-            <p><strong>{{ post.data.description }}</strong> <span>${{ post.data.price }}</span></p>
+            <p><strong>{{ post.data.description }}</strong>
+            {% if post.data.sold %}
+                <span>Sold</span>
+            {% else %}
+                <span>${{ post.data.price }}</span>
+            {% endif %}
+            </p>
         </a>
     {%- endfor %}
 </div>
