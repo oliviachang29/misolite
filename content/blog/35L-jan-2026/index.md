@@ -5,12 +5,12 @@ date: 2026-02-01
 tags:
   - packs
   - builds
-main_image: 'IMG_1893.webp'
-alternate_image: 'IMG_1866.webp'
+main_image: 'front.webp'
+alternate_image: 'back.webp'
 ---
 
-![Green and purple pack front view](./IMG_1893.webp)
-![Green and purple pack back view with a black back panel](./IMG_1866.webp)
-![Me holding the pack](./IMG_1880.webp)
-![](./IMG_1887.webp)
+![Green and purple pack front view](./front.webp)
+![Green and purple pack back view with a black back panel](./back.webp)
+![Stretchy spandura bottom pocket](./bottom.webp)
+![Another photo of the front](./front2.webp)
 
