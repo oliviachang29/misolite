@@ -5,8 +5,11 @@ date: 2026-02-01
 tags:
   - packs
   - builds
+  - for-sale
 main_image: 'front.webp'
 alternate_image: 'back.webp'
+sold: false
+price: 125
 ---
 
 ![Green and purple pack front view](./front.webp)

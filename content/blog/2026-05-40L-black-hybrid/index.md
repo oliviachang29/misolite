@@ -6,7 +6,6 @@ sold: true
 tags:
   - packs
   - builds
-  - for-sale
 main_image: 'IMG_2819.webp'
 alternate_image: 'IMG_2801.webp'
 ---
