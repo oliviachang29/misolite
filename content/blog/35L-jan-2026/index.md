@@ -8,7 +8,7 @@ tags:
   - for-sale
 main_image: 'front.webp'
 alternate_image: 'back.webp'
-sold: false
+sold: true
 price: 125
 ---
 
